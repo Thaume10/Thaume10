@@ -4,6 +4,7 @@ I'm currently in my 5th year of engineering studies at INSA Lyon, specializing i
 #### 💻 Areas of Interest:
 Artificial Intelligence 🤖
 Cybersecurity 🔐
+Internet of Things (IoT) 🌐
 Software Development 💻
 
 #### ⚡ Hobbies & Passions:
