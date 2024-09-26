@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, I'm Tom! 👋
+# 🧑‍🎓 Engineering Student at INSA Lyon
+I'm currently in my 5th year of engineering studies at INSA Lyon, specializing in Artificial Intelligence and Cybersecurity. My passion for tech and innovation drives me to explore and contribute to exciting projects! 🚀
+# 💻 Areas of Interest:
+Artificial Intelligence 🤖
+Cybersecurity 🔐
+Software Development 💻
 
-<!--
-**Thaume10/Thaume10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ Hobbies & Passions:
+Sports Enthusiast 🏋️‍♂️
+I love staying active and fit! You'll find me playing handball 🤾‍♂️, rugby 🏉, and exploring other sports whenever I get the chance.
 
-Here are some ideas to get you started:
+# Party Lover 🎉
+After a productive day of coding or sports, I enjoy having fun with friends, celebrating life, and making great memories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📫 How to reach me:
+Feel free to connect with me on LinkedIn or drop me an email at tomlavigne02@gmail.com ! Let's collaborate or chat about tech, sports, or anything in between! 😊
