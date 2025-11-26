@@ -1,6 +1,5 @@
 # Hello, I'm Tom! 👋
-### 🧑‍🎓 Engineering Student at INSA Lyon
-I'm currently in my 5th year of engineering studies at INSA Lyon, specializing in Artificial Intelligence and Cybersecurity. My passion for tech and innovation drives me to explore and contribute to exciting projects! 🚀
+
 #### 💻 Areas of Interest:
 Artificial Intelligence 🤖
 Cybersecurity 🔐
